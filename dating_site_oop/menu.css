@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.mid .pesan {
+    text-align: center;
+    height: 35px;
+    width: 75px;
+    background-color: yellowgreen;
+    color: white;
+    outline: none;
+    border: none;
+}
+
+.mid .gift {
+    text-align: center;
+    height: 35px;
+    width: 75px;
+    background-color: cyan;
+    color: white;
+    outline: none;
+    border: none;
+}
+
+
+.special .cari {
+    width: 300px;
+    height: auto;
+    /* border: 1px solid red; */
+
+}
+
+.tombol span {
+    color: red;
+}
+
+.btn-like {
+    background: transparent;
+    border: none;
+    outline: none;
+    color: grey;
+}
+
+.btn-like i:hover {
+    cursor: pointer;
+    color: red;
+}
+
+.navbar-main {
+    background-color: pink;
+}
+
+
+/* .tombol .order {
+    text-align: center;
+    height: 35px;
+    width: 75px;
+    background-color: yellowgreen;
+    color: white;
+    outline: none;
+    border: none;
+
+}
+
+
+
+.tombol .edit {
+    text-align: center;
+    height: 35px;
+    width: 75px;
+    background-color: rgb(50, 135, 205);
+    color: white;
+    outline: none;
+    border: none;
+
+}
+
+.tombol .delete {
+    text-align: center;
+    height: 35px;
+    width: 75px;
+    background-color: rgb(205, 86, 50);
+    color: white;
+    outline: none;
+    border: none;
+
+} */
+
+
+.mid img {
+    min-height: 200px;
+    max-height: 200px;
+}
+
+
+.card {
+    /* height: 450px; */
+    min-width: 300px;
+    max-width: 300px;
+}
