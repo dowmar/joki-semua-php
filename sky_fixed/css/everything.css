@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+#tictac-div {
+
+    height: 125.3333px;
+    width: 97.3333px;
+    /*border:1px solid black;*/
+    float: left;
+    margin-left: 30.333px;
+    background-color: black;
+}
+
+
+@media(max-width:768px) {
+    .carousel .carousel-inner {
+
+        height: auto
+    }
+}
+
+.navbar {
+    background-color: #1b65a7;
+
+}
+
+.navbar a {
+    color: white;
+
+}
+
+.navbar .nav-item a {
+    color: white;
+}
+
+.login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #aabafa;
+    background-image: linear-gradient(62deg, #aabafa 20%, #dbe1f8 100%);
+}
+
+.login .login-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: fit-content;
+
+}
+
+.login .login-main form {
+    padding: 20px;
+    height: auto;
+}
+
+.register {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    background-color: #aabafa;
+    background-image: linear-gradient(62deg, #aabafa 20%, #dbe1f8 100%);
+
+
+}
+
+.register .register-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: fit-content;
+
+}
+
+.register .register-main form {
+    padding: 20px;
+    height: auto;
+}
+
+.free {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #aabafa;
+    background-image: linear-gradient(62deg, #aabafa 20%, #dbe1f8 100%);
+
+}
+
+.free .free-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: fit-content;
+
+}
+
+.free .free-main form {
+    padding: 20px;
+    height: auto;
+}
+
+.online-container {
+    justify-content: center;
+    align-items: center;
+    background-color: #aabafa;
+    background-image: linear-gradient(62deg, #aabafa 20%, #dbe1f8 100%);
+
+}
+
+.onlinepl {
+    background-color: #aabafa;
+    background-image: linear-gradient(62deg, #aabafa 20%, #dbe1f8 100%);
+}
+
+.request {
+    background-color: #aabafa;
+    background-image: linear-gradient(62deg, #aabafa 20%, #dbe1f8 100%);
+}
